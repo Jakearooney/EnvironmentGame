@@ -1651,3 +1651,1196 @@ Make sure 'SheepAIBlueprint_C' has been compiled for  Get InsidePen
 [2023.05.04-12.16.31:838][117]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/IslandMapCCB6F70548DED93500F442A29C8E7B52.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/Maps/IslandMap.umap'
 [2023.05.04-12.16.31:889][117]AssetCheck: New page: Asset Save: IslandMap
 [2023.05.04-12.16.31:889][117]LogContentValidation: Display: Validating World /Game/Maps/IslandMap.IslandMap
+[2023.05.04-12.23.36:644][ 56]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.05.04-12.24.06:824][384]LogEditorTransaction: Undo Add Node
+[2023.05.04-12.27.08:862][687]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.04-12.27.08:877][687]LogBlueprint: Error: [AssetLog] C:\Users\Jake\Documents\Wanted\Important\University\AnimalGame\EnvironmentGame\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] This blueprint (self) is not a GameplayHudBlueprint_C, therefore ' Target ' must have a connection.
+[2023.05.04-12.27.08:877][687]LogBlueprint: Error: [AssetLog] C:\Users\Jake\Documents\Wanted\Important\University\AnimalGame\EnvironmentGame\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] This blueprint (self) is not a GameplayHudBlueprint_C, therefore ' Target ' must have a connection.
+[2023.05.04-12.27.08:877][687]LogBlueprint: Error: [AssetLog] C:\Users\Jake\Documents\Wanted\Important\University\AnimalGame\EnvironmentGame\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] Variable node  Get ClockAnimation  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.05.04-12.27.08:878][687]LogBlueprint: Error: [AssetLog] C:\Users\Jake\Documents\Wanted\Important\University\AnimalGame\EnvironmentGame\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] Variable node  Get ClockMove  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.05.04-12.27.08:952][687]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2023.05.04-12.27.15:154][398]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.04-12.27.15:166][398]LogBlueprint: Error: [AssetLog] C:\Users\Jake\Documents\Wanted\Important\University\AnimalGame\EnvironmentGame\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] This blueprint (self) is not a GameplayHudBlueprint_C, therefore ' Target ' must have a connection.
+[2023.05.04-12.27.15:167][398]LogBlueprint: Error: [AssetLog] C:\Users\Jake\Documents\Wanted\Important\University\AnimalGame\EnvironmentGame\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] Variable node  Get ClockMove  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.05.04-12.27.15:204][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.05.04-12.27.18:480][761]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.04-12.27.18:531][761]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.05.04-12.27.50:533][476]LogSlate: Took 0.018721 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.05.04-12.27.58:305][375]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.04-12.27.58:359][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.05.04-12.27.59:013][433]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/FirstPersonCharacterAD6657504C06FA5DC20088B3AB18DE98.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.05.04-12.27.59:025][433]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.05.04-12.27.59:025][433]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.05.04-12.28.14:038][153]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.04-12.28.14:091][153]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.05.04-12.28.14:531][187]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/FirstPersonCharacter6C677E464810CDB4E51BD08DDD15FA2C.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.05.04-12.28.14:541][187]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.05.04-12.28.14:541][187]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.05.04-12.29.13:673][160]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.04-12.29.13:726][160]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.05.04-12.29.51:822][573]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.04-12.29.51:875][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.05.04-12.29.52:317][605]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/FirstPersonCharacter9D02CB01495B0D30711B798F6CF41EE9.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.05.04-12.29.52:328][605]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.05.04-12.29.52:328][605]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.05.04-12.29.53:136][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.05.04-12.29.53:770][694]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/IslandMapBBAA67904939E738440100AB129D4478.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/Maps/IslandMap.umap'
+[2023.05.04-12.29.53:821][694]AssetCheck: New page: Asset Save: IslandMap
+[2023.05.04-12.29.53:821][694]LogContentValidation: Display: Validating World /Game/Maps/IslandMap.IslandMap
+[2023.05.04-12.29.53:982][712]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.04-12.29.53:989][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.04-12.29.53:989][712]PIE: New page: PIE session: IslandMap (4 May 2023, 14:29:53)
+[2023.05.04-12.29.53:989][712]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IslandMap
+[2023.05.04-12.29.54:150][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.160537s)
+[2023.05.04-12.29.54:151][712]LogAIModule: Creating AISystem for world IslandMap
+[2023.05.04-12.29.54:151][712]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2023.05.04-12.29.54:151][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IslandMap.IslandMap to /Game/Maps/UEDPIE_0_IslandMap.IslandMap (0.161711s)
+[2023.05.04-12.29.54:169][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.05.04-12.29.54:169][712]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.05.04-12.29.54:169][712]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.04-12.29.54:169][712]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.04-12.29.54:169][712]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.04-12.29.54:169][712]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.04-12.29.54:169][712]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.04-12.29.54:169][712]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.04-12.29.54:169][712]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.04-12.29.54:169][712]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.04-12.29.54:169][712]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.04-12.29.54:169][712]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.04-12.29.54:169][712]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.04-12.29.54:170][712]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.04-12.29.54:174][712]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.04-12.29.54:174][712]LogAudioMixer: Display: 1: FrontRight
+[2023.05.04-12.29.54:182][712]LogAudioMixer: Display: Using Audio Device Jam Speakers (High Definition Audio Device)
+[2023.05.04-12.29.54:182][712]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.04-12.29.54:182][712]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.04-12.29.54:182][712]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.04-12.29.54:183][712]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.04-12.29.54:183][712]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.04-12.29.54:183][712]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.04-12.29.54:184][712]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.04-12.29.54:184][712]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.04-12.29.54:184][712]LogInit: FAudioDevice initialized.
+[2023.05.04-12.29.54:184][712]LogAudio: Display: Audio Device (ID: 10) registered with world 'IslandMap'.
+[2023.05.04-12.29.54:192][712]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.04-12.29.54:215][712]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IslandMap.IslandMap up for play (max tick rate 0) at 2023.05.04-13.29.54
+[2023.05.04-12.29.54:218][712]LogWorld: Bringing up level for play took: 0.025071
+[2023.05.04-12.29.54:218][712]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2023.05.04-12.29.54:220][712]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.04-12.29.54:221][712]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.04-12.29.54:224][712]PIE: Server logged in
+[2023.05.04-12.29.54:225][712]PIE: Play in editor total start time 0.237 seconds.
+[2023.05.04-12.30.28:338][801]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.04-12.30.28:338][801]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.05.04-12.30.29:581][949]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.04-12.30.29:581][949]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.04-12.30.31:048][125]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.04-12.30.31:048][125]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.05.04-12.30.32:406][288]LogNet: Browse: /Game/Maps/MenuLevel
+[2023.05.04-12.30.32:419][288]LogLoad: LoadMap: /Game/Maps/MenuLevel
+[2023.05.04-12.30.32:419][288]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IslandMap
+[2023.05.04-12.30.32:425][288]LogWorld: UWorld::CleanupWorld for IslandMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-12.30.32:429][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-12.30.32:471][288]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.04-12.30.32:480][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.05.04-12.30.32:670][288]LogAudio: Display: Audio Device (ID: 10) registered with world 'MenuLevel'.
+[2023.05.04-12.30.32:670][288]LogAIModule: Creating AISystem for world MenuLevel
+[2023.05.04-12.30.32:671][288]LogLoad: Game class is 'MenuGamemode_C'
+[2023.05.04-12.30.32:682][288]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuLevel.MenuLevel up for play (max tick rate 0) at 2023.05.04-13.30.32
+[2023.05.04-12.30.32:682][288]LogWorld: Bringing up level for play took: 0.010948
+[2023.05.04-12.30.32:682][288]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.04-12.30.32:683][288]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.04-12.30.32:703][288]LogLoad: Took 0.284556 seconds to LoadMap(/Game/Maps/MenuLevel)
+[2023.05.04-12.30.35:069][571]LogNet: Browse: /Game/Maps/IslandMap
+[2023.05.04-12.30.35:069][571]LogLoad: LoadMap: /Game/Maps/IslandMap
+[2023.05.04-12.30.35:069][571]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuLevel
+[2023.05.04-12.30.35:069][571]LogWorld: UWorld::CleanupWorld for MenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-12.30.35:069][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-12.30.35:110][571]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.04-12.30.35:113][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.05.04-12.30.35:114][571]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IslandMap
+[2023.05.04-12.30.35:276][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.162576s)
+[2023.05.04-12.30.35:277][571]LogAIModule: Creating AISystem for world IslandMap
+[2023.05.04-12.30.35:278][571]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2023.05.04-12.30.35:278][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IslandMap.IslandMap to /Game/Maps/UEDPIE_0_IslandMap.IslandMap (0.163757s)
+[2023.05.04-12.30.35:278][571]LogAudio: Display: Audio Device (ID: 10) registered with world 'IslandMap'.
+[2023.05.04-12.30.35:278][571]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.04-12.30.35:293][571]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IslandMap.IslandMap up for play (max tick rate 0) at 2023.05.04-13.30.35
+[2023.05.04-12.30.35:296][571]LogWorld: Bringing up level for play took: 0.017737
+[2023.05.04-12.30.35:300][571]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.04-12.30.35:301][571]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.04-12.30.35:301][571]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.04-12.30.35:304][571]LogLoad: Took 0.235652 seconds to LoadMap(/Game/Maps/UEDPIE_0_IslandMap)
+[2023.05.04-12.30.39:427][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-12.30.39:427][ 60]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IslandMap
+[2023.05.04-12.30.39:428][ 60]LogWorld: UWorld::CleanupWorld for IslandMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-12.30.39:432][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-12.30.39:440][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.04-12.30.39:453][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-12.30.39:470][ 60]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.04-12.30.39:471][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.04-12.30.39:472][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.04-12.30.39:474][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-12.30.39:481][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.05.04-12.30.39:516][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.05.04-12.31.51:786][545]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.04-12.31.51:838][545]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.05.04-12.35.14:805][348]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.04-12.35.14:862][348]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2023.05.04-12.35.15:274][377]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/FirstPersonCharacter5D4F3E884C6915663E1FAB9A730958D5.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.05.04-12.35.15:285][377]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.05.04-12.35.15:285][377]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.05.04-12.36.21:382][985]LogEditorTransaction: Undo Move Nodes
+[2023.05.04-12.40.38:618][823]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2023.05.04-12.40.39:262][823]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/IslandMap_Auto314A72B9242513BFC1F15AC90336A9CD4.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/Autosaves/Game/Maps/IslandMap_Auto3.umap'
+[2023.05.04-12.40.39:264][823]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/IslandMap' took 0.666
+[2023.05.04-12.40.39:264][823]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.666
+[2023.05.04-12.40.39:264][823]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([2] browsable assets)...
+[2023.05.04-12.40.39:264][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2023.05.04-12.40.39:315][823]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/FirstPersonCharacter_Auto32FDDA8F042DD9C645F3D7CA77578695B.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto3.uasset'
+[2023.05.04-12.40.39:329][823]LogFileHelpers: Auto-saving content packages took 0.065
+[2023.05.04-13.28.00:788][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.05.04-13.28.00:790][724]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/IslandMap' took 0.028
+[2023.05.04-13.28.00:791][724]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([2] browsable assets)...
+[2023.05.04-13.28.00:791][724]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2023.05.04-13.28.00:842][724]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/FirstPersonCharacter_Auto4EFDA9A184C6259FE933EC38BADA7F9C7.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto4.uasset'
+[2023.05.04-13.28.00:859][724]LogFileHelpers: Auto-saving content packages took 0.070
+[2023.05.04-13.29.43:896][  5]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.04-13.29.43:948][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.05.04-13.29.56:419][474]LogEditorTransaction: Undo Move Node
+[2023.05.04-13.29.57:927][604]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.04-13.29.57:982][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.05.04-13.29.58:365][630]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/FirstPersonCharacter37982E854B4A6BDAE993E28AA7DF7BE0.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.05.04-13.29.58:377][630]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.05.04-13.29.58:377][630]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.05.04-13.35.23:475][333]LogEditorTransaction: Undo Delete current selection
+[2023.05.04-13.35.35:780][745]LogBlueprint: Warning: [AssetLog] C:\Users\Jake\Documents\Wanted\Important\University\AnimalGame\EnvironmentGame\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Check Look at  and was replaced as a Custom Event!
+[2023.05.04-13.36.30:627][159]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.04-13.36.30:683][159]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2023.05.04-13.36.31:091][187]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/FirstPersonCharacter78473B844B513D9FEFCC809F43CC18DE.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.05.04-13.36.31:102][187]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.05.04-13.36.31:102][187]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.05.04-13.36.36:303][802]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.04-13.36.36:357][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.05.04-13.36.37:406][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.05.04-13.36.38:053][884]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/IslandMapF58B412840872CE063E640B0EA929D23.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/Maps/IslandMap.umap'
+[2023.05.04-13.36.38:110][884]AssetCheck: New page: Asset Save: IslandMap
+[2023.05.04-13.36.38:110][884]LogContentValidation: Display: Validating World /Game/Maps/IslandMap.IslandMap
+[2023.05.04-13.36.38:259][899]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.04-13.36.38:266][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.04-13.36.38:266][899]PIE: New page: PIE session: IslandMap (4 May 2023, 15:36:38)
+[2023.05.04-13.36.38:287][899]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IslandMap
+[2023.05.04-13.36.38:449][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.161748s)
+[2023.05.04-13.36.38:450][899]LogAIModule: Creating AISystem for world IslandMap
+[2023.05.04-13.36.38:450][899]LogPlayLevel: PIE: World Init took: (0.001050s)
+[2023.05.04-13.36.38:450][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IslandMap.IslandMap to /Game/Maps/UEDPIE_0_IslandMap.IslandMap (0.162970s)
+[2023.05.04-13.36.38:467][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.05.04-13.36.38:468][899]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.05.04-13.36.38:468][899]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.04-13.36.38:468][899]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.04-13.36.38:468][899]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.04-13.36.38:468][899]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.04-13.36.38:468][899]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.04-13.36.38:468][899]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.04-13.36.38:468][899]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.04-13.36.38:468][899]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.04-13.36.38:468][899]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.04-13.36.38:468][899]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.04-13.36.38:468][899]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.04-13.36.38:468][899]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.04-13.36.38:473][899]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.04-13.36.38:473][899]LogAudioMixer: Display: 1: FrontRight
+[2023.05.04-13.36.38:481][899]LogAudioMixer: Display: Using Audio Device Jam Speakers (High Definition Audio Device)
+[2023.05.04-13.36.38:481][899]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.04-13.36.38:481][899]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.04-13.36.38:481][899]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.04-13.36.38:482][899]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.04-13.36.38:482][899]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.04-13.36.38:482][899]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.04-13.36.38:483][899]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.04-13.36.38:483][899]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.04-13.36.38:483][899]LogInit: FAudioDevice initialized.
+[2023.05.04-13.36.38:483][899]LogAudio: Display: Audio Device (ID: 11) registered with world 'IslandMap'.
+[2023.05.04-13.36.38:494][899]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.04-13.36.38:517][899]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IslandMap.IslandMap up for play (max tick rate 0) at 2023.05.04-14.36.38
+[2023.05.04-13.36.38:519][899]LogWorld: Bringing up level for play took: 0.025063
+[2023.05.04-13.36.38:520][899]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2023.05.04-13.36.38:521][899]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.04-13.36.38:522][899]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.04-13.36.38:526][899]PIE: Server logged in
+[2023.05.04-13.36.38:526][899]PIE: Play in editor total start time 0.263 seconds.
+[2023.05.04-13.36.50:838][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-13.36.50:838][371]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IslandMap
+[2023.05.04-13.36.50:838][371]LogWorld: UWorld::CleanupWorld for IslandMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-13.36.50:843][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-13.36.50:850][371]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.04-13.36.50:864][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-13.36.50:881][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-13.36.50:882][371]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.04-13.36.50:883][371]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.04-13.36.50:890][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.05.04-13.36.50:929][372]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.05.04-13.38.16:247][473]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.04-13.38.16:301][473]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2023.05.04-13.38.18:060][645]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/FirstPersonCharacter4131403346514AB7B285789024A9DF74.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.05.04-13.38.18:071][645]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.05.04-13.38.18:071][645]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.05.04-13.38.20:641][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.05.04-13.38.21:284][930]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/IslandMap3F282286461E11CFFF8DAAA77713F5A2.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/Maps/IslandMap.umap'
+[2023.05.04-13.38.21:328][930]AssetCheck: New page: Asset Save: IslandMap
+[2023.05.04-13.38.21:328][930]LogContentValidation: Display: Validating World /Game/Maps/IslandMap.IslandMap
+[2023.05.04-13.38.25:355][404]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2023.05.04-13.38.28:057][625]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-13.38.28:057][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-13.38.28:105][625]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2023.05.04-13.38.30:298][844]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-13.38.30:298][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-13.38.32:357][ 52]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.04-13.38.32:357][ 52]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-13.38.32:357][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-13.38.33:159][128]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD
+[2023.05.04-13.38.42:987][231]BlueprintLog: New page: Compile FirstPersonHUD
+[2023.05.04-13.38.43:016][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.05.04-13.38.43:375][271]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/FirstPersonHUDE62DA2604234FDEC64ABFC9EDE43F9B3.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset'
+[2023.05.04-13.38.43:384][271]AssetCheck: New page: Asset Save: FirstPersonHUD
+[2023.05.04-13.38.43:384][271]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD
+[2023.05.04-13.38.44:534][409]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-13.38.44:534][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-13.38.47:972][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.05.04-13.38.48:756][803]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/IslandMap47FD6050422CE9A8999A60BB6687568B.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/Maps/IslandMap.umap'
+[2023.05.04-13.38.48:793][803]AssetCheck: New page: Asset Save: IslandMap
+[2023.05.04-13.38.48:793][803]LogContentValidation: Display: Validating World /Game/Maps/IslandMap.IslandMap
+[2023.05.04-13.38.49:073][835]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/MenuGamemode.MenuGamemode
+[2023.05.04-13.38.52:173][165]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-13.38.52:173][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-13.38.53:040][249]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD
+[2023.05.04-13.38.54:757][411]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-13.38.54:757][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-13.39.10:773][228]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UIRelated/Blueprints/BellCraftBlueprint.BellCraftBlueprint
+[2023.05.04-13.43.40:970][747]LogEditorTransaction: Undo Delete current selection
+[2023.05.04-13.45.31:708][405]LogEditorTransaction: Undo Create Reroute Node
+[2023.05.04-13.45.32:236][422]LogEditorTransaction: Undo Move Node
+[2023.05.04-13.45.34:292][611]LogEditorTransaction: Undo Move Node
+[2023.05.04-13.46.25:175][290]BlueprintLog: New page: Compile BellCraftBlueprint
+[2023.05.04-13.46.25:274][290]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2023.05.04-13.46.25:814][332]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/BellCraftBlueprint4AB6EF30443597DCC4CD7DB0AFAE25B3.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/UIRelated/Blueprints/BellCraftBlueprint.uasset'
+[2023.05.04-13.46.25:829][332]AssetCheck: New page: Asset Save: BellCraftBlueprint
+[2023.05.04-13.46.25:829][332]LogContentValidation: Display: Validating WidgetBlueprint /Game/UIRelated/Blueprints/BellCraftBlueprint.BellCraftBlueprint
+[2023.05.04-13.46.26:713][407]LogSlate: Window 'BellCraftBlueprint' being destroyed
+[2023.05.04-13.46.26:788][407]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-13.46.26:788][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-13.46.26:796][407]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-13.46.26:796][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-13.46.27:865][518]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UIRelated/Blueprints/GameplayHudBlueprint.GameplayHudBlueprint
+[2023.05.04-13.46.31:131][850]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UIRelated/Blueprints/HudBlueprint.HudBlueprint
+[2023.05.04-13.46.32:841][998]LogSlate: Window 'HudBlueprint' being destroyed
+[2023.05.04-13.46.32:860][998]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-13.46.32:860][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-13.46.34:484][166]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UIRelated/Blueprints/MainMenuWB.MainMenuWB
+[2023.05.04-13.47.22:671][862]BlueprintLog: New page: Compile MainMenuWB
+[2023.05.04-13.47.22:742][862]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2023.05.04-13.47.24:556][ 53]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/MainMenuWB1218B67A495CF597385EC9BBCFBE64A8.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/UIRelated/Blueprints/MainMenuWB.uasset'
+[2023.05.04-13.47.24:567][ 53]AssetCheck: New page: Asset Save: MainMenuWB
+[2023.05.04-13.47.24:567][ 53]LogContentValidation: Display: Validating WidgetBlueprint /Game/UIRelated/Blueprints/MainMenuWB.MainMenuWB
+[2023.05.04-13.47.26:108][228]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-13.47.26:109][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-13.47.26:116][228]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-13.47.26:116][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-13.47.28:316][465]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UIRelated/Blueprints/PauseWB.PauseWB
+[2023.05.04-13.48.05:347][765]BlueprintLog: New page: Compile GameplayHudBlueprint
+[2023.05.04-13.48.05:418][765]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2023.05.04-13.48.06:432][877]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/GameplayHudBlueprintB370EF6E440A50DDDB1E8BAC201D7D6C.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/UIRelated/Blueprints/GameplayHudBlueprint.uasset'
+[2023.05.04-13.48.06:441][877]AssetCheck: New page: Asset Save: GameplayHudBlueprint
+[2023.05.04-13.48.06:441][877]LogContentValidation: Display: Validating WidgetBlueprint /Game/UIRelated/Blueprints/GameplayHudBlueprint.GameplayHudBlueprint
+[2023.05.04-13.48.49:748][941]LogEditorTransaction: Undo Move Node
+[2023.05.04-13.48.50:557][990]LogEditorTransaction: Undo Create Reroute Node
+[2023.05.04-13.49.23:898][962]BlueprintLog: New page: Compile GameplayHudBlueprint
+[2023.05.04-13.49.23:972][962]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2023.05.04-13.49.24:401][  7]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/GameplayHudBlueprintCDB76ADE49F7531AFB02608BAA437F5D.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/UIRelated/Blueprints/GameplayHudBlueprint.uasset'
+[2023.05.04-13.49.24:412][  7]AssetCheck: New page: Asset Save: GameplayHudBlueprint
+[2023.05.04-13.49.24:412][  7]LogContentValidation: Display: Validating WidgetBlueprint /Game/UIRelated/Blueprints/GameplayHudBlueprint.GameplayHudBlueprint
+[2023.05.04-13.49.25:469][126]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-13.49.25:469][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-13.49.25:475][126]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-13.49.25:476][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-13.49.34:945][ 59]LogSlate: Window 'Delete Variable' being destroyed
+[2023.05.04-13.49.39:683][579]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AnimalBlueprints/ChickenAIBlueprint.ChickenAIBlueprint
+[2023.05.04-13.49.42:072][808]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-13.49.42:072][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-13.49.43:319][916]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AnimalBlueprints/CowAIBlueprint.CowAIBlueprint
+[2023.05.04-13.49.55:537][119]BlueprintLog: New page: Compile CowAIBlueprint
+[2023.05.04-13.49.55:681][119]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2023.05.04-13.49.56:387][133]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/CowAIBlueprint95EBB7314F4FDA5B725B1584B928D594.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/Blueprints/AnimalBlueprints/CowAIBlueprint.uasset'
+[2023.05.04-13.49.56:420][133]AssetCheck: New page: Asset Save: CowAIBlueprint
+[2023.05.04-13.49.56:420][133]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AnimalBlueprints/CowAIBlueprint.CowAIBlueprint
+[2023.05.04-13.50.16:292][204]BlueprintLog: New page: Compile CowAIBlueprint
+[2023.05.04-13.50.16:455][204]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2023.05.04-13.50.16:901][210]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/CowAIBlueprint35E7F929492E97E63F4B70A4E2EF1BE9.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/Blueprints/AnimalBlueprints/CowAIBlueprint.uasset'
+[2023.05.04-13.50.16:925][210]AssetCheck: New page: Asset Save: CowAIBlueprint
+[2023.05.04-13.50.16:925][210]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AnimalBlueprints/CowAIBlueprint.CowAIBlueprint
+[2023.05.04-13.50.18:443][280]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AnimalBlueprints/ChickenAIBlueprint.ChickenAIBlueprint
+[2023.05.04-13.50.24:957][948]BlueprintLog: New page: Compile ChickenAIBlueprint
+[2023.05.04-13.50.25:025][948]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.05.04-13.50.25:446][982]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/ChickenAIBlueprint3CC1550F471CA67491B4D08980C31C8C.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/Blueprints/AnimalBlueprints/ChickenAIBlueprint.uasset'
+[2023.05.04-13.50.25:456][982]AssetCheck: New page: Asset Save: ChickenAIBlueprint
+[2023.05.04-13.50.25:456][982]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AnimalBlueprints/ChickenAIBlueprint.ChickenAIBlueprint
+[2023.05.04-13.50.27:402][158]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AnimalBlueprints/SheepAIBlueprint.SheepAIBlueprint
+[2023.05.04-13.50.30:250][450]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-13.50.30:250][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-13.50.30:718][493]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.04-13.50.30:718][493]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-13.50.30:718][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-13.50.31:078][525]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.04-13.50.31:078][525]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-13.50.31:078][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-13.50.34:770][901]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/EnvironmentBlueprints/BellPiece.BellPiece
+[2023.05.04-13.50.49:100][125]BlueprintLog: New page: Compile BellPiece
+[2023.05.04-13.50.49:310][125]LogUObjectHash: Compacting FUObjectHashTables data took   6.68ms
+[2023.05.04-13.50.49:597][126]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/BellPieceA4BE3EB24336206A1058D3ABE74EADC2.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/Blueprints/EnvironmentBlueprints/BellPiece.uasset'
+[2023.05.04-13.50.49:627][126]AssetCheck: New page: Asset Save: BellPiece
+[2023.05.04-13.50.49:627][126]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/EnvironmentBlueprints/BellPiece.BellPiece
+[2023.05.04-13.51.22:101][157]BlueprintLog: New page: Compile BellPiece
+[2023.05.04-13.51.22:175][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.05.04-13.51.22:698][165]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/BellPieceC394C6BE4372FF25A227A5A77AEF8398.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/Blueprints/EnvironmentBlueprints/BellPiece.uasset'
+[2023.05.04-13.51.22:805][165]AssetCheck: New page: Asset Save: BellPiece
+[2023.05.04-13.51.22:805][165]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/EnvironmentBlueprints/BellPiece.BellPiece
+[2023.05.04-13.51.23:371][190]LogSlate: Window 'BellPiece' being destroyed
+[2023.05.04-13.51.23:400][190]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-13.51.23:400][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-13.51.24:376][224]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/EnvironmentBlueprints/PenBlueprint.PenBlueprint
+[2023.05.04-13.51.27:184][376]LogRenderer: Reallocating scene render targets to support 1144x744 Format 10 NumSamples 1 (Frame:1).
+[2023.05.04-13.52.19:912][360]BlueprintLog: New page: Compile PenBlueprint
+[2023.05.04-13.52.19:952][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.05.04-13.52.20:374][401]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/PenBlueprint38BA2135438F15F365793BA50A6940A5.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/Blueprints/EnvironmentBlueprints/PenBlueprint.uasset'
+[2023.05.04-13.52.20:385][401]AssetCheck: New page: Asset Save: PenBlueprint
+[2023.05.04-13.52.20:385][401]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/EnvironmentBlueprints/PenBlueprint.PenBlueprint
+[2023.05.04-13.52.21:149][484]LogSlate: Window 'PenBlueprint' being destroyed
+[2023.05.04-13.52.21:167][484]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-13.52.21:167][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-13.52.24:054][789]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/InteractInterface.InteractInterface
+[2023.05.04-13.52.30:863][517]LogSlate: Window 'InteractInterface' being destroyed
+[2023.05.04-13.52.30:881][517]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-13.52.30:881][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-13.57.42:466][934]BlueprintLog: New page: Compile PauseWB
+[2023.05.04-13.57.42:475][934]LogBlueprint: Error: [AssetLog] C:\Users\Jake\Documents\Wanted\Important\University\AnimalGame\EnvironmentGame\Content\UIRelated\Blueprints\PauseWB.uasset: [Compiler] Failed to resolve term  Value generated from expanding Decrement Int  passed into  Target generated from expanding Decrement Int
+[2023.05.04-13.57.42:506][934]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2023.05.04-13.58.41:934][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.05.04-13.58.42:630][971]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/IslandMap_Auto5EAD0718A4C13E3E6488B8C9F264FA667.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/Autosaves/Game/Maps/IslandMap_Auto5.umap'
+[2023.05.04-13.58.42:632][971]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/IslandMap' took 0.718
+[2023.05.04-13.58.42:632][971]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.718
+[2023.05.04-13.58.42:633][971]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UIRelated/Blueprints/PauseWB] ([2] browsable assets)...
+[2023.05.04-13.58.42:633][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIRelated/Blueprints/PauseWB]
+[2023.05.04-13.58.42:684][971]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/PauseWB_Auto53C1A25AB47A527633DD6D8A9BB2E6068.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/Autosaves/Game/UIRelated/Blueprints/PauseWB_Auto5.uasset'
+[2023.05.04-13.58.42:685][971]LogFileHelpers: Auto-saving content packages took 0.052
+[2023.05.04-14.35.04:398][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.05.04-14.35.04:411][398]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/IslandMap' took 0.056
+[2023.05.04-14.35.04:412][398]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UIRelated/Blueprints/PauseWB] ([2] browsable assets)...
+[2023.05.04-14.35.04:412][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIRelated/Blueprints/PauseWB]
+[2023.05.04-14.35.04:465][398]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/PauseWB_Auto68A60BB5D4DA5F1CEDDAA78A6C6E53525.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/Autosaves/Game/UIRelated/Blueprints/PauseWB_Auto6.uasset'
+[2023.05.04-14.35.04:466][398]LogFileHelpers: Auto-saving content packages took 0.055
+[2023.05.04-14.40.15:084][469]LogEditorTransaction: Undo Rename Node
+[2023.05.04-14.40.15:610][481]LogEditorTransaction: Undo Resize Node
+[2023.05.04-14.40.15:990][519]LogEditorTransaction: Undo Create Pin Link
+[2023.05.04-14.40.16:809][585]LogEditorTransaction: Undo Create Pin Link
+[2023.05.04-14.40.17:201][626]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.17:573][664]LogEditorTransaction: Undo Add Node
+[2023.05.04-14.40.18:180][729]LogEditorTransaction: Undo Rename Variable
+[2023.05.04-14.40.18:599][770]LogEditorTransaction: Undo Change Parameter Type
+[2023.05.04-14.40.18:957][804]LogEditorTransaction: Undo Add Variable
+[2023.05.04-14.40.19:314][839]LogEditorTransaction: Undo Create Pin Link
+[2023.05.04-14.40.19:646][872]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.20:022][910]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.20:340][942]LogEditorTransaction: Undo Move Nodes
+[2023.05.04-14.40.20:648][971]LogEditorTransaction: Undo Paste clipboard contents
+[2023.05.04-14.40.20:957][999]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.21:257][ 27]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.21:588][ 61]LogEditorTransaction: Undo Move Nodes
+[2023.05.04-14.40.21:855][ 85]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.22:181][118]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.22:455][145]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.22:721][171]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.23:004][199]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.23:277][226]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.23:517][249]LogEditorTransaction: Undo Move Nodes
+[2023.05.04-14.40.23:733][268]LogEditorTransaction: Undo Move Nodes
+[2023.05.04-14.40.23:958][289]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.24:181][308]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.24:381][326]LogEditorTransaction: Undo Resize Node
+[2023.05.04-14.40.24:699][357]LogEditorTransaction: Undo Rename Node
+[2023.05.04-14.40.25:079][396]LogEditorTransaction: Undo Add Node
+[2023.05.04-14.40.25:339][420]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.25:581][443]LogEditorTransaction: Undo Move Nodes
+[2023.05.04-14.40.25:804][463]LogEditorTransaction: Undo Rename Node
+[2023.05.04-14.40.26:030][484]LogEditorTransaction: Undo Add Node
+[2023.05.04-14.40.26:254][504]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.26:456][522]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.26:679][543]LogEditorTransaction: Undo Resize Node
+[2023.05.04-14.40.26:954][569]LogEditorTransaction: Undo Rename Node
+[2023.05.04-14.40.27:154][587]LogEditorTransaction: Undo Add Node
+[2023.05.04-14.40.27:354][605]LogEditorTransaction: Undo Move Nodes
+[2023.05.04-14.40.27:597][628]LogEditorTransaction: Undo Delete current selection
+[2023.05.04-14.40.35:748][568]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.36:047][575]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.36:248][579]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.36:423][589]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.36:597][603]LogEditorTransaction: Undo Rename Node
+[2023.05.04-14.40.36:786][615]LogEditorTransaction: Undo Add Node
+[2023.05.04-14.40.36:981][631]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.38:034][749]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.38:245][767]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.38:427][782]LogEditorTransaction: Undo Resize Node
+[2023.05.04-14.40.38:603][795]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.38:797][811]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.38:985][826]LogEditorTransaction: Undo Rename Node
+[2023.05.04-14.40.39:187][843]LogEditorTransaction: Undo Add Node
+[2023.05.04-14.40.39:372][858]LogEditorTransaction: Undo Move Nodes
+[2023.05.04-14.40.39:583][874]LogEditorTransaction: Undo Move Node
+[2023.05.04-14.40.39:790][890]LogEditorTransaction: Undo Resize Node
+[2023.05.04-14.40.39:991][905]LogEditorTransaction: Undo Rename Node
+[2023.05.04-14.40.40:208][922]LogEditorTransaction: Undo Resize Node
+[2023.05.04-14.40.40:414][936]LogEditorTransaction: Undo Rename Node
+[2023.05.04-14.40.40:623][950]LogEditorTransaction: Undo Add Node
+[2023.05.04-14.40.40:824][965]LogEditorTransaction: Undo Delete current selection
+[2023.05.04-14.40.41:029][978]LogEditorTransaction: Undo Move Nodes
+[2023.05.04-14.40.41:240][995]LogEditorTransaction: Undo Resize Node
+[2023.05.04-14.40.41:460][ 19]LogEditorTransaction: Undo Resize Node
+[2023.05.04-14.40.41:706][ 45]LogEditorTransaction: Undo Edit Font Size
+[2023.05.04-14.40.48:960][894]LogEditorTransaction: Undo Create Pin Link
+[2023.05.04-14.41.04:311][608]BlueprintLog: New page: Compile PauseWB
+[2023.05.04-14.41.04:321][608]LogBlueprint: Warning: [AssetLog] C:\Users\Jake\Documents\Wanted\Important\University\AnimalGame\EnvironmentGame\Content\UIRelated\Blueprints\PauseWB.uasset: [Compiler] Could not find a variable named "Player Reference" in 'PauseWB_C'.
+Make sure 'PauseWB_C' has been compiled for  Set Player Reference
+[2023.05.04-14.41.04:322][608]LogBlueprint: Error: [AssetLog] C:\Users\Jake\Documents\Wanted\Important\University\AnimalGame\EnvironmentGame\Content\UIRelated\Blueprints\PauseWB.uasset: [Compiler] The property associated with  Player Reference  could not be found in '/Game/UIRelated/Blueprints/PauseWB.PauseWB_C'
+[2023.05.04-14.41.04:372][608]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2023.05.04-14.41.05:581][736]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/PauseWB0F839ECE4516992D01AE53ACE5B18889.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/UIRelated/Blueprints/PauseWB.uasset'
+[2023.05.04-14.41.05:595][736]AssetCheck: New page: Asset Save: PauseWB
+[2023.05.04-14.41.05:595][736]LogContentValidation: Display: Validating WidgetBlueprint /Game/UIRelated/Blueprints/PauseWB.PauseWB
+[2023.05.04-14.41.25:035][917]BlueprintLog: New page: Compile PauseWB
+[2023.05.04-14.41.25:045][917]LogBlueprint: Error: [AssetLog] C:\Users\Jake\Documents\Wanted\Important\University\AnimalGame\EnvironmentGame\Content\UIRelated\Blueprints\PauseWB.uasset: [Compiler] Failed to resolve term  Value generated from expanding Decrement Int  passed into  Target generated from expanding Decrement Int
+[2023.05.04-14.41.25:081][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.05.04-14.41.59:560][774]BlueprintLog: New page: Compile PauseWB
+[2023.05.04-14.41.59:598][774]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.05.04-14.42.00:083][809]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/PauseWB03F040FE49CC0B49E57AC2979C39B589.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/UIRelated/Blueprints/PauseWB.uasset'
+[2023.05.04-14.42.00:094][809]AssetCheck: New page: Asset Save: PauseWB
+[2023.05.04-14.42.00:094][809]LogContentValidation: Display: Validating WidgetBlueprint /Game/UIRelated/Blueprints/PauseWB.PauseWB
+[2023.05.04-14.42.04:188][274]BlueprintLog: New page: Compile PauseWB
+[2023.05.04-14.42.04:234][274]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2023.05.04-14.42.04:782][322]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/PauseWB37E0B9E343836BE5A49F01AFB80DCEDB.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/UIRelated/Blueprints/PauseWB.uasset'
+[2023.05.04-14.42.04:793][322]AssetCheck: New page: Asset Save: PauseWB
+[2023.05.04-14.42.04:793][322]LogContentValidation: Display: Validating WidgetBlueprint /Game/UIRelated/Blueprints/PauseWB.PauseWB
+[2023.05.04-14.42.11:316][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.05.04-14.42.11:998][  6]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/IslandMapC986B69F410B24583489429BE35671A7.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/Maps/IslandMap.umap'
+[2023.05.04-14.42.12:086][  6]AssetCheck: New page: Asset Save: IslandMap
+[2023.05.04-14.42.12:086][  6]LogContentValidation: Display: Validating World /Game/Maps/IslandMap.IslandMap
+[2023.05.04-14.42.12:395][ 43]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.04-14.42.12:403][ 43]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.04-14.42.12:406][ 43]LogPlayLevel: [PlayLevel] Compiling PenBlueprint before play...
+[2023.05.04-14.42.12:453][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.05.04-14.42.12:457][ 43]LogPlayLevel: PlayLevel: Blueprint regeneration took 53 ms (1 blueprints)
+[2023.05.04-14.42.12:457][ 43]PIE: New page: PIE session: IslandMap (4 May 2023, 16:42:12)
+[2023.05.04-14.42.12:482][ 43]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IslandMap
+[2023.05.04-14.42.12:684][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.201591s)
+[2023.05.04-14.42.12:685][ 43]LogAIModule: Creating AISystem for world IslandMap
+[2023.05.04-14.42.12:686][ 43]LogPlayLevel: PIE: World Init took: (0.001586s)
+[2023.05.04-14.42.12:686][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IslandMap.IslandMap to /Game/Maps/UEDPIE_0_IslandMap.IslandMap (0.203532s)
+[2023.05.04-14.42.12:703][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.05.04-14.42.12:703][ 43]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.05.04-14.42.12:704][ 43]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.04-14.42.12:704][ 43]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.04-14.42.12:704][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.04-14.42.12:704][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.04-14.42.12:704][ 43]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.04-14.42.12:704][ 43]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.04-14.42.12:704][ 43]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.04-14.42.12:704][ 43]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.04-14.42.12:704][ 43]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.04-14.42.12:704][ 43]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.04-14.42.12:704][ 43]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.04-14.42.12:704][ 43]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.04-14.42.12:709][ 43]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.04-14.42.12:709][ 43]LogAudioMixer: Display: 1: FrontRight
+[2023.05.04-14.42.12:717][ 43]LogAudioMixer: Display: Using Audio Device Jam Speakers (High Definition Audio Device)
+[2023.05.04-14.42.12:718][ 43]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.04-14.42.12:718][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.04-14.42.12:718][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.04-14.42.12:721][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.04-14.42.12:721][ 43]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.04-14.42.12:721][ 43]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.04-14.42.12:722][ 43]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.04-14.42.12:722][ 43]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.04-14.42.12:722][ 43]LogInit: FAudioDevice initialized.
+[2023.05.04-14.42.12:722][ 43]LogAudio: Display: Audio Device (ID: 12) registered with world 'IslandMap'.
+[2023.05.04-14.42.12:741][ 43]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.04-14.42.12:776][ 43]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IslandMap.IslandMap up for play (max tick rate 0) at 2023.05.04-15.42.12
+[2023.05.04-14.42.12:780][ 43]LogWorld: Bringing up level for play took: 0.037874
+[2023.05.04-14.42.12:780][ 43]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2023.05.04-14.42.12:783][ 43]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.04-14.42.12:784][ 43]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.04-14.42.12:788][ 43]PIE: Server logged in
+[2023.05.04-14.42.12:789][ 43]PIE: Play in editor total start time 0.388 seconds.
+[2023.05.04-14.42.15:721][386]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.04-14.42.15:721][386]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.05.04-14.42.17:735][627]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.04-14.42.17:735][627]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.04-14.42.19:127][794]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.04-14.42.19:127][794]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.05.04-14.42.19:902][887]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.04-14.42.19:902][887]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.04-14.42.20:312][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-14.42.20:313][933]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IslandMap
+[2023.05.04-14.42.20:313][933]LogWorld: UWorld::CleanupWorld for IslandMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-14.42.20:318][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-14.42.20:332][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.04-14.42.20:346][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-14.42.20:364][933]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.04-14.42.20:364][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.04-14.42.20:365][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.04-14.42.20:367][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-14.42.20:378][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.05.04-14.42.20:553][934]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.05.04-14.47.28:325][ 56]LogEditorTransaction: Undo Add Node
+[2023.05.04-14.47.28:617][ 63]LogEditorTransaction: Undo Delete current selection
+[2023.05.04-14.48.01:843][954]BlueprintLog: New page: Compile PauseWB
+[2023.05.04-14.48.01:878][954]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.05.04-14.48.02:404][996]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/PauseWB9F01A076402F0C48A834B19A4E3CCADB.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/UIRelated/Blueprints/PauseWB.uasset'
+[2023.05.04-14.48.02:416][996]AssetCheck: New page: Asset Save: PauseWB
+[2023.05.04-14.48.02:416][996]LogContentValidation: Display: Validating WidgetBlueprint /Game/UIRelated/Blueprints/PauseWB.PauseWB
+[2023.05.04-14.53.17:000][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2023.05.04-14.53.17:680][803]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/IslandMap_Auto7CF8F4D6443F2E8D4AE6E6792AE1B40BD.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/Autosaves/Game/Maps/IslandMap_Auto7.umap'
+[2023.05.04-14.53.17:682][803]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/IslandMap' took 0.704
+[2023.05.04-14.53.17:682][803]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.704
+[2023.05.04-14.53.17:683][803]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UIRelated/Blueprints/PauseWB] ([4] browsable assets)...
+[2023.05.04-14.53.17:683][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIRelated/Blueprints/PauseWB]
+[2023.05.04-14.53.17:736][803]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/PauseWB_Auto7C499F8F54AAE7C89622FD1A26D1E7654.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/Autosaves/Game/UIRelated/Blueprints/PauseWB_Auto7.uasset'
+[2023.05.04-14.53.17:737][803]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/EnvironmentBlueprints/PenBlueprint] ([2] browsable assets)...
+[2023.05.04-14.53.17:737][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnvironmentBlueprints/PenBlueprint]
+[2023.05.04-14.53.17:740][803]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/PenBlueprint_Auto7A0D3A720407EE7ED26A529B0BE66D4F4.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/Autosaves/Game/Blueprints/EnvironmentBlueprints/PenBlueprint_Auto7.uasset'
+[2023.05.04-14.53.17:741][803]LogFileHelpers: Auto-saving content packages took 0.058
+[2023.05.04-15.08.43:056][996]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(668)].
+[2023.05.04-15.08.43:079][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2023.05.04-15.08.43:083][996]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/IslandMap' took 0.022
+[2023.05.04-15.08.43:083][996]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UIRelated/Blueprints/PauseWB] ([4] browsable assets)...
+[2023.05.04-15.08.43:083][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIRelated/Blueprints/PauseWB]
+[2023.05.04-15.08.43:137][996]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/PauseWB_Auto868D036624DE61DAC2A3BA58D220A2937.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/Autosaves/Game/UIRelated/Blueprints/PauseWB_Auto8.uasset'
+[2023.05.04-15.08.43:138][996]LogFileHelpers: Auto-saving content packages took 0.055
+[2023.05.04-15.11.24:054][987]LogEditorTransaction: Undo Move Node
+[2023.05.04-15.11.24:331][993]LogEditorTransaction: Undo Create Reroute Node
+[2023.05.04-15.11.37:854][565]LogEditorTransaction: Undo Move Node
+[2023.05.04-15.12.44:638][397]BlueprintLog: New page: Compile PauseWB
+[2023.05.04-15.12.44:675][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.05.04-15.12.45:134][433]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/PauseWB89059D9A467D4245E58CB48E601E2BAC.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/UIRelated/Blueprints/PauseWB.uasset'
+[2023.05.04-15.12.45:146][433]AssetCheck: New page: Asset Save: PauseWB
+[2023.05.04-15.12.45:146][433]LogContentValidation: Display: Validating WidgetBlueprint /Game/UIRelated/Blueprints/PauseWB.PauseWB
+[2023.05.04-15.12.46:314][559]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-15.12.46:314][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-15.12.46:324][559]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-15.12.46:325][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-15.12.47:302][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.05.04-15.12.47:917][653]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/IslandMapB4928D0B4C0C67BB38E26590EB0FFF39.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/Maps/IslandMap.umap'
+[2023.05.04-15.12.47:969][653]AssetCheck: New page: Asset Save: IslandMap
+[2023.05.04-15.12.47:969][653]LogContentValidation: Display: Validating World /Game/Maps/IslandMap.IslandMap
+[2023.05.04-15.12.48:863][755]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.04-15.12.48:869][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.04-15.12.48:869][755]PIE: New page: PIE session: IslandMap (4 May 2023, 17:12:48)
+[2023.05.04-15.12.48:894][755]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IslandMap
+[2023.05.04-15.12.49:064][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.170669s)
+[2023.05.04-15.12.49:065][755]LogAIModule: Creating AISystem for world IslandMap
+[2023.05.04-15.12.49:065][755]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2023.05.04-15.12.49:066][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IslandMap.IslandMap to /Game/Maps/UEDPIE_0_IslandMap.IslandMap (0.171945s)
+[2023.05.04-15.12.49:080][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.05.04-15.12.49:081][755]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.05.04-15.12.49:081][755]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.04-15.12.49:081][755]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.04-15.12.49:081][755]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.04-15.12.49:081][755]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.04-15.12.49:081][755]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.04-15.12.49:081][755]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.04-15.12.49:081][755]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.04-15.12.49:081][755]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.04-15.12.49:082][755]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.04-15.12.49:082][755]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.04-15.12.49:082][755]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.04-15.12.49:082][755]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.04-15.12.49:086][755]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.04-15.12.49:086][755]LogAudioMixer: Display: 1: FrontRight
+[2023.05.04-15.12.49:094][755]LogAudioMixer: Display: Using Audio Device Jam Speakers (High Definition Audio Device)
+[2023.05.04-15.12.49:095][755]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.04-15.12.49:095][755]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.04-15.12.49:095][755]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.04-15.12.49:095][755]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.04-15.12.49:095][755]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.04-15.12.49:095][755]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.04-15.12.49:096][755]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.04-15.12.49:096][755]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.04-15.12.49:096][755]LogInit: FAudioDevice initialized.
+[2023.05.04-15.12.49:096][755]LogAudio: Display: Audio Device (ID: 13) registered with world 'IslandMap'.
+[2023.05.04-15.12.49:107][755]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.04-15.12.49:131][755]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IslandMap.IslandMap up for play (max tick rate 0) at 2023.05.04-16.12.49
+[2023.05.04-15.12.49:133][755]LogWorld: Bringing up level for play took: 0.026176
+[2023.05.04-15.12.49:134][755]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2023.05.04-15.12.49:135][755]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.04-15.12.49:137][755]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.04-15.12.49:140][755]PIE: Server logged in
+[2023.05.04-15.12.49:141][755]PIE: Play in editor total start time 0.274 seconds.
+[2023.05.04-15.15.08:726][488]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.04-15.15.08:726][488]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.05.04-15.15.11:092][772]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.04-15.15.11:092][772]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.04-15.20.20:614][562]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.04-15.20.20:614][562]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.05.04-15.20.24:135][936]LogNet: Browse: /Game/Maps/IslandMap
+[2023.05.04-15.20.24:135][936]LogLoad: LoadMap: /Game/Maps/IslandMap
+[2023.05.04-15.20.24:135][936]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IslandMap
+[2023.05.04-15.20.24:136][936]LogWorld: UWorld::CleanupWorld for IslandMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-15.20.24:141][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-15.20.24:200][936]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.04-15.20.24:211][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.05.04-15.20.24:223][936]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IslandMap
+[2023.05.04-15.20.24:415][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.192318s)
+[2023.05.04-15.20.24:416][936]LogAIModule: Creating AISystem for world IslandMap
+[2023.05.04-15.20.24:416][936]LogPlayLevel: PIE: World Init took: (0.001112s)
+[2023.05.04-15.20.24:416][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IslandMap.IslandMap to /Game/Maps/UEDPIE_0_IslandMap.IslandMap (0.193661s)
+[2023.05.04-15.20.24:416][936]LogAudio: Display: Audio Device (ID: 13) registered with world 'IslandMap'.
+[2023.05.04-15.20.24:416][936]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.04-15.20.24:434][936]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IslandMap.IslandMap up for play (max tick rate 0) at 2023.05.04-16.20.24
+[2023.05.04-15.20.24:437][936]LogWorld: Bringing up level for play took: 0.020255
+[2023.05.04-15.20.24:441][936]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.04-15.20.24:443][936]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.04-15.20.24:443][936]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.04-15.20.24:446][936]LogLoad: Took 0.310902 seconds to LoadMap(/Game/Maps/UEDPIE_0_IslandMap)
+[2023.05.04-15.20.25:886][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-15.20.25:886][102]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IslandMap
+[2023.05.04-15.20.25:886][102]LogWorld: UWorld::CleanupWorld for IslandMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-15.20.25:891][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-15.20.25:900][102]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.04-15.20.25:914][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-15.20.25:928][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-15.20.25:931][102]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.04-15.20.25:933][102]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.04-15.20.25:940][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.05.04-15.20.25:986][103]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2023.05.04-15.20.26:870][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.05.04-15.20.27:579][199]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/IslandMap3ECDF1304E22DCD55831E4B6213769AD.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/Maps/IslandMap.umap'
+[2023.05.04-15.20.27:628][199]AssetCheck: New page: Asset Save: IslandMap
+[2023.05.04-15.20.27:628][199]LogContentValidation: Display: Validating World /Game/Maps/IslandMap.IslandMap
+[2023.05.04-15.20.34:562][812]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.05.04-15.20.37:977][ 52]LogSlate: Window 'Project Settings' being destroyed
+[2023.05.04-15.21.06:492][389]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.04-15.21.10:832][877]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2023.05.04-15.21.11:539][877]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/IslandMap96210CB84F6AB2D3FE9FE48E9C6759AC.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/Maps/IslandMap.umap'
+[2023.05.04-15.21.11:596][877]AssetCheck: New page: Asset Save: IslandMap
+[2023.05.04-15.21.11:596][877]LogContentValidation: Display: Validating World /Game/Maps/IslandMap.IslandMap
+[2023.05.04-15.21.28:617][753]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2023.05.04-15.21.29:354][753]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/IslandMapF7426EDF465299F52B4C25B6089D7456.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/Maps/IslandMap.umap'
+[2023.05.04-15.21.29:395][753]AssetCheck: New page: Asset Save: IslandMap
+[2023.05.04-15.21.29:395][753]LogContentValidation: Display: Validating World /Game/Maps/IslandMap.IslandMap
+[2023.05.04-15.21.30:576][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.05.04-15.21.35:344][892]LogSlate: Window 'Save Content' being destroyed
+[2023.05.04-15.21.35:376][892]LogSavePackage: Moving '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Saved/PenBlueprintB484DF1D43D24279203DB6907A78207A.tmp' to '../../../../../../Users/Jake/Documents/Wanted/Important/University/AnimalGame/EnvironmentGame/Content/Blueprints/EnvironmentBlueprints/PenBlueprint.uasset'
+[2023.05.04-15.21.35:410][892]LogSlate: Window 'EnvironmentGame - Unreal Editor' being destroyed
+[2023.05.04-15.21.35:562][892]AssetCheck: New page: Asset Save: PenBlueprint
+[2023.05.04-15.21.35:562][892]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/EnvironmentBlueprints/PenBlueprint.PenBlueprint
+[2023.05.04-15.21.35:563][893]Cmd: QUIT_EDITOR
+[2023.05.04-15.21.35:563][893]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.05.04-15.21.35:566][893]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.05.04-15.21.35:584][893]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.05.04-15.21.35:584][893]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.05.04-15.21.35:584][893]LogAudio: Display: Audio Device unregistered from world 'IslandMap'.
+[2023.05.04-15.21.35:584][893]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.04-15.21.35:586][893]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.04-15.21.35:610][893]LogAudio: Display: Audio Device Manager Shutdown
+[2023.05.04-15.21.35:610][893]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.04-15.21.35:629][893]LogExit: Preparing to exit.
+[2023.05.04-15.21.36:007][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.05.04-15.21.36:228][893]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-15.21.36:230][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.04-15.21.36:230][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.04-15.21.36:230][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.04-15.21.36:230][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.04-15.21.36:230][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.04-15.21.36:230][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.04-15.21.36:230][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.04-15.21.36:230][893]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-15.21.36:231][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.04-15.21.36:231][893]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-15.21.36:231][893]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-15.21.36:232][893]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-15.21.36:233][893]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-15.21.36:234][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.04-15.21.36:234][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.04-15.21.36:234][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.04-15.21.36:234][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.04-15.21.36:234][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.04-15.21.36:234][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.04-15.21.36:234][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.04-15.21.36:234][893]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-15.21.36:234][893]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-15.21.36:235][893]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-15.21.36:237][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.04-15.21.36:237][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.04-15.21.36:237][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.04-15.21.36:237][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.04-15.21.36:237][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.04-15.21.36:237][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.04-15.21.36:237][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.04-15.21.36:237][893]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-15.21.36:413][893]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.05.04-15.21.36:454][893]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-15.21.36:461][893]LogExit: Editor shut down
+[2023.05.04-15.21.36:463][893]LogExit: Transaction tracking system shut down
+[2023.05.04-15.21.37:083][893]LogExit: Object subsystem successfully closed.
+[2023.05.04-15.21.37:104][893]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.04-15.21.37:104][893]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.05.04-15.21.37:104][893]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.05.04-15.21.37:104][893]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.05.04-15.21.37:104][893]LogShaderCompilers: Display: ================================================
+[2023.05.04-15.21.37:126][893]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.05.04-15.21.37:172][893]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (880)
+[2023.05.04-15.21.37:172][893]LogModuleManager: Shutting down and abandoning module SequencerWidgets (878)
+[2023.05.04-15.21.37:172][893]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (876)
+[2023.05.04-15.21.37:172][893]LogModuleManager: Shutting down and abandoning module Voice (874)
+[2023.05.04-15.21.37:172][893]LogModuleManager: Shutting down and abandoning module BlueprintGraph (872)
+[2023.05.04-15.21.37:172][893]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2023.05.04-15.21.37:172][893]LogModuleManager: Shutting down and abandoning module AddContentDialog (868)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module WidgetCarousel (867)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module EditorWidgets (864)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module SceneOutliner (862)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module OpenXRInput (848)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module GooglePADEditor (846)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (844)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module TakeRecorder (843)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (840)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module TakesCore (838)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (832)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (830)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module PlanarCut (826)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (824)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (822)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module WebMMedia (820)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (818)
+[2023.05.04-15.21.37:175][893]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (816)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (814)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module SequenceRecorder (813)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (810)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (808)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (806)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (804)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (802)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (800)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (798)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (796)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module CharacterAI (794)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (792)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (790)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (788)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2023.05.04-15.21.37:176][893]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2023.05.04-15.21.37:177][893]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2023.05.04-15.21.37:177][893]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2023.05.04-15.21.38:723][893]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2023.05.04-15.21.38:723][893]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2023.05.04-15.21.38:723][893]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2023.05.04-15.21.38:723][893]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2023.05.04-15.21.38:723][893]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2023.05.04-15.21.38:723][893]MemoryProfiler: Shutdown
+[2023.05.04-15.21.38:723][893]NetworkingProfiler: Shutdown
+[2023.05.04-15.21.38:723][893]LoadingProfiler: Shutdown
+[2023.05.04-15.21.38:723][893]TimingProfiler: Shutdown
+[2023.05.04-15.21.38:723][893]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2023.05.04-15.21.38:723][893]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2023.05.04-15.21.38:723][893]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2023.05.04-15.21.38:723][893]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2023.05.04-15.21.38:723][893]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2023.05.04-15.21.38:723][893]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2023.05.04-15.21.38:724][893]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2023.05.04-15.21.38:724][893]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2023.05.04-15.21.38:724][893]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2023.05.04-15.21.38:724][893]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2023.05.04-15.21.38:724][893]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2023.05.04-15.21.38:724][893]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2023.05.04-15.21.38:724][893]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2023.05.04-15.21.38:724][893]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2023.05.04-15.21.38:724][893]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2023.05.04-15.21.38:724][893]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2023.05.04-15.21.38:724][893]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2023.05.04-15.21.38:724][893]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2023.05.04-15.21.38:724][893]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2023.05.04-15.21.38:724][893]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2023.05.04-15.21.38:724][893]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2023.05.04-15.21.38:724][893]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2023.05.04-15.21.38:757][893]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2023.05.04-15.21.38:757][893]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2023.05.04-15.21.38:757][893]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2023.05.04-15.21.38:757][893]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2023.05.04-15.21.38:757][893]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2023.05.04-15.21.38:757][893]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2023.05.04-15.21.38:757][893]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2023.05.04-15.21.38:757][893]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2023.05.04-15.21.38:757][893]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2023.05.04-15.21.38:757][893]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2023.05.04-15.21.38:757][893]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2023.05.04-15.21.38:768][893]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2023.05.04-15.21.38:768][893]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2023.05.04-15.21.38:768][893]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2023.05.04-15.21.38:768][893]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2023.05.04-15.21.38:770][893]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2023.05.04-15.21.38:770][893]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2023.05.04-15.21.38:770][893]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2023.05.04-15.21.38:775][893]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2023.05.04-15.21.38:775][893]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2023.05.04-15.21.38:777][893]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2023.05.04-15.21.38:777][893]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2023.05.04-15.21.38:777][893]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2023.05.04-15.21.38:777][893]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2023.05.04-15.21.38:777][893]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2023.05.04-15.21.38:777][893]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2023.05.04-15.21.38:777][893]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2023.05.04-15.21.38:777][893]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2023.05.04-15.21.38:777][893]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2023.05.04-15.21.38:777][893]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2023.05.04-15.21.38:777][893]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2023.05.04-15.21.38:777][893]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2023.05.04-15.21.38:777][893]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2023.05.04-15.21.38:777][893]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2023.05.04-15.21.38:777][893]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2023.05.04-15.21.38:777][893]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2023.05.04-15.21.38:777][893]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2023.05.04-15.21.38:782][893]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2023.05.04-15.21.38:837][893]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2023.05.04-15.21.38:837][893]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2023.05.04-15.21.38:837][893]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2023.05.04-15.21.38:837][893]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2023.05.04-15.21.38:837][893]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (598)
+[2023.05.04-15.21.38:837][893]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (596)
+[2023.05.04-15.21.38:837][893]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2023.05.04-15.21.38:837][893]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (590)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module SynthesisEditor (588)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module Synthesis (586)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (584)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (582)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module OpenXREditor (580)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (578)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module GooglePAD (576)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module TakeSequencer (574)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module TakeMovieScene (572)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module EditableMesh (570)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (568)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module CableComponent (566)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module AudioCapture (564)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (563)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module AssetTags (560)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (558)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (556)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module AppleImageUtils (554)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module AndroidPermission (552)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (550)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (548)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module ScreenshotTools (546)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module TemplateSequence (544)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (542)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module MotoSynth (540)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (538)
+[2023.05.04-15.21.38:838][893]LogOpenImageDenoise: OIDN shutting down
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (536)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (535)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (532)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module MeshConversion (530)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module DynamicMesh (528)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (526)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module GeometricObjects (524)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (522)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (520)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (518)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module MediaCompositing (516)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module ImgMedia (514)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (512)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (510)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module ChaosNiagara (508)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module FractureEditor (506)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (505)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (502)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module BackChannel (500)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (498)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module AutomationUtils (496)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module AlembicImporter (494)
+[2023.05.04-15.21.38:838][893]LogModuleManager: Shutting down and abandoning module AlembicLibrary (493)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module GeometryCache (492)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (491)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (486)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (484)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (482)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (480)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (478)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (476)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (474)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (472)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module PluginBrowser (470)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (468)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (466)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (464)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (462)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module CurveEditorTools (460)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (458)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module CryptoKeys (456)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module UObjectPlugin (454)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (452)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (450)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (448)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module PluginUtils (446)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (444)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (442)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module GitSourceControl (440)
+[2023.05.04-15.21.38:839][893]LogModuleManager: Shutting down and abandoning module SourceControl (439)
+[2023.05.04-15.21.38:840][893]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (436)
+[2023.05.04-15.21.38:840][893]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (434)
+[2023.05.04-15.21.38:840][893]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (432)
+[2023.05.04-15.21.38:840][893]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (430)
+[2023.05.04-15.21.38:840][893]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (428)
+[2023.05.04-15.21.38:840][893]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (426)
+[2023.05.04-15.21.38:840][893]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (424)
+[2023.05.04-15.21.38:840][893]LogModuleManager: Shutting down and abandoning module LiveLink (422)
+[2023.05.04-15.21.39:211][893]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2023.05.04-15.21.39:211][893]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2023.05.04-15.21.39:211][893]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2023.05.04-15.21.39:211][893]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2023.05.04-15.21.39:211][893]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2023.05.04-15.21.39:211][893]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2023.05.04-15.21.39:211][893]LogModuleManager: Shutting down and abandoning module SignificanceManager (408)
+[2023.05.04-15.21.39:211][893]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (406)
+[2023.05.04-15.21.39:211][893]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2023.05.04-15.21.39:211][893]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2023.05.04-15.21.39:211][893]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2023.05.04-15.21.39:211][893]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2023.05.04-15.21.39:211][893]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2023.05.04-15.21.39:211][893]LogModuleManager: Shutting down and abandoning module UdpMessaging (392)
+[2023.05.04-15.21.39:312][893]LogModuleManager: Shutting down and abandoning module TcpMessaging (390)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module ActorSequence (388)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (386)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (384)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (382)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module Niagara (380)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module SignalProcessing (379)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module NiagaraEditor (377)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module NiagaraCore (374)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (372)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (370)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (368)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (366)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (364)
+[2023.05.04-15.21.39:413][893]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (362)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (360)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (358)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (356)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module MagicLeapController (354)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (352)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module MagicLeapAR (350)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (348)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module FacialAnimation (346)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (344)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module DataValidation (342)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (340)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module GameplayCameras (338)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module AnimationSharing (336)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (334)
+[2023.05.04-15.21.39:413][893]LogModuleManager: Shutting down and abandoning module LevelEditor (333)
+[2023.05.04-15.21.39:416][893]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (332)
+[2023.05.04-15.21.39:416][893]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (330)
+[2023.05.04-15.21.39:416][893]LogModuleManager: Shutting down and abandoning module MainFrame (328)
+[2023.05.04-15.21.39:416][893]LogModuleManager: Shutting down and abandoning module HotReload (327)
+[2023.05.04-15.21.39:416][893]LogModuleManager: Shutting down and abandoning module ToolMenus (323)
+[2023.05.04-15.21.39:416][893]LogModuleManager: Shutting down and abandoning module ContentBrowser (321)
+[2023.05.04-15.21.39:417][893]LogModuleManager: Shutting down and abandoning module ContentBrowserData (320)
+[2023.05.04-15.21.39:417][893]LogModuleManager: Shutting down and abandoning module TreeMap (317)
+[2023.05.04-15.21.39:417][893]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (314)
+[2023.05.04-15.21.39:417][893]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (312)
+[2023.05.04-15.21.39:417][893]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2023.05.04-15.21.39:417][893]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2023.05.04-15.21.39:425][893]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2023.05.04-15.21.39:426][893]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2023.05.04-15.21.39:426][893]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2023.05.04-15.21.39:426][893]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2023.05.04-15.21.39:426][893]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2023.05.04-15.21.39:426][893]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2023.05.04-15.21.39:426][893]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2023.05.04-15.21.39:426][893]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2023.05.04-15.21.39:426][893]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2023.05.04-15.21.39:426][893]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2023.05.04-15.21.39:426][893]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2023.05.04-15.21.39:426][893]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2023.05.04-15.21.39:426][893]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2023.05.04-15.21.39:426][893]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2023.05.04-15.21.39:426][893]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2023.05.04-15.21.39:426][893]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2023.05.04-15.21.39:426][893]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2023.05.04-15.21.39:426][893]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2023.05.04-15.21.39:426][893]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2023.05.04-15.21.39:426][893]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2023.05.04-15.21.39:426][893]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2023.05.04-15.21.39:427][893]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2023.05.04-15.21.39:427][893]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2023.05.04-15.21.39:427][893]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2023.05.04-15.21.39:427][893]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2023.05.04-15.21.39:427][893]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2023.05.04-15.21.39:427][893]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2023.05.04-15.21.39:427][893]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2023.05.04-15.21.39:427][893]LogModuleManager: Shutting down and abandoning module Core (248)
+[2023.05.04-15.21.39:427][893]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2023.05.04-15.21.39:427][893]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2023.05.04-15.21.39:427][893]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2023.05.04-15.21.39:427][893]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2023.05.04-15.21.39:427][893]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2023.05.04-15.21.39:429][893]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2023.05.04-15.21.39:429][893]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2023.05.04-15.21.39:429][893]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2023.05.04-15.21.39:429][893]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2023.05.04-15.21.39:429][893]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2023.05.04-15.21.39:429][893]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2023.05.04-15.21.39:429][893]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2023.05.04-15.21.39:429][893]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2023.05.04-15.21.39:429][893]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2023.05.04-15.21.39:429][893]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2023.05.04-15.21.39:429][893]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2023.05.04-15.21.39:429][893]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2023.05.04-15.21.39:430][893]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2023.05.04-15.21.39:430][893]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2023.05.04-15.21.39:430][893]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2023.05.04-15.21.39:430][893]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2023.05.04-15.21.39:430][893]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2023.05.04-15.21.39:430][893]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2023.05.04-15.21.39:430][893]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2023.05.04-15.21.39:430][893]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2023.05.04-15.21.39:430][893]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2023.05.04-15.21.39:430][893]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2023.05.04-15.21.39:430][893]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2023.05.04-15.21.39:430][893]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2023.05.04-15.21.39:430][893]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2023.05.04-15.21.39:430][893]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2023.05.04-15.21.39:430][893]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2023.05.04-15.21.39:430][893]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2023.05.04-15.21.39:430][893]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2023.05.04-15.21.39:430][893]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2023.05.04-15.21.39:430][893]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2023.05.04-15.21.39:430][893]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2023.05.04-15.21.39:430][893]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2023.05.04-15.21.39:430][893]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2023.05.04-15.21.39:433][893]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2023.05.04-15.21.39:433][893]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2023.05.04-15.21.39:433][893]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2023.05.04-15.21.39:433][893]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2023.05.04-15.21.39:433][893]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2023.05.04-15.21.39:437][893]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2023.05.04-15.21.39:437][893]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2023.05.04-15.21.39:437][893]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2023.05.04-15.21.39:437][893]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2023.05.04-15.21.39:437][893]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2023.05.04-15.21.39:437][893]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2023.05.04-15.21.39:437][893]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2023.05.04-15.21.39:437][893]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2023.05.04-15.21.39:437][893]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2023.05.04-15.21.39:441][893]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2023.05.04-15.21.39:456][893]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2023.05.04-15.21.39:456][893]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2023.05.04-15.21.39:456][893]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2023.05.04-15.21.39:456][893]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2023.05.04-15.21.39:456][893]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2023.05.04-15.21.39:457][893]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2023.05.04-15.21.39:457][893]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2023.05.04-15.21.39:457][893]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2023.05.04-15.21.39:457][893]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2023.05.04-15.21.39:457][893]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2023.05.04-15.21.39:457][893]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2023.05.04-15.21.39:457][893]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2023.05.04-15.21.39:457][893]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2023.05.04-15.21.39:457][893]LogHMD: Freeing OpenVRDLLHandle.
+[2023.05.04-15.21.39:457][893]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2023.05.04-15.21.39:457][893]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2023.05.04-15.21.39:458][893]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.05.04-15.21.39:458][893]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2023.05.04-15.21.39:458][893]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2023.05.04-15.21.39:458][893]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2023.05.04-15.21.39:458][893]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2023.05.04-15.21.39:488][893]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2023.05.04-15.21.39:488][893]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2023.05.04-15.21.39:488][893]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2023.05.04-15.21.39:488][893]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2023.05.04-15.21.39:488][893]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2023.05.04-15.21.39:490][893]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2023.05.04-15.21.39:490][893]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2023.05.04-15.21.39:517][893]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2023.05.04-15.21.39:517][893]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2023.05.04-15.21.39:517][893]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B469ECBAB-4DDE-43B2-1040-64BDE4B2AB63%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=70b3b054413898aa5a3d73b7965839bc%7C7952491544714e9a9d57f5f300e48fb7%7C0f6b1810-ff29-4d62-902b-c04a69721782&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.05.04-15.21.39:517][893]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2023.05.04-15.21.39:544][893]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2023.05.04-15.21.39:546][893]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2023.05.04-15.21.39:548][893]LogModuleManager: Shutting down and abandoning module Media (73)
+[2023.05.04-15.21.39:549][893]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2023.05.04-15.21.39:549][893]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2023.05.04-15.21.39:549][893]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (66)
+[2023.05.04-15.21.39:549][893]LogModuleManager: Shutting down and abandoning module NiagaraShader (64)
+[2023.05.04-15.21.39:549][893]LogModuleManager: Shutting down and abandoning module ChaosCloth (62)
+[2023.05.04-15.21.39:549][893]LogModuleManager: Shutting down and abandoning module MLSDK (60)
+[2023.05.04-15.21.39:549][893]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2023.05.04-15.21.39:549][893]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2023.05.04-15.21.39:549][893]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2023.05.04-15.21.39:549][893]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2023.05.04-15.21.39:549][893]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2023.05.04-15.21.39:549][893]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2023.05.04-15.21.39:549][893]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (46)
+[2023.05.04-15.21.39:549][893]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (44)
+[2023.05.04-15.21.39:550][893]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2023.05.04-15.21.39:550][893]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (40)
+[2023.05.04-15.21.39:550][893]LogModuleManager: Shutting down and abandoning module PlatformCrypto (38)
+[2023.05.04-15.21.39:550][893]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2023.05.04-15.21.39:550][893]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2023.05.04-15.21.39:550][893]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2023.05.04-15.21.39:550][893]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2023.05.04-15.21.39:550][893]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2023.05.04-15.21.39:550][893]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.05.04-15.21.39:550][893]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.05.04-15.21.39:550][893]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2023.05.04-15.21.39:562][893]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.05.04-15.21.39:563][893]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.05.04-15.21.39:563][893]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.05.04-15.21.39:563][893]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.05.04-15.21.39:563][893]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2023.05.04-15.21.39:563][893]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2023.05.04-15.21.39:563][893]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2023.05.04-15.21.39:563][893]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.05.04-15.21.39:563][893]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.05.04-15.21.39:563][893]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.05.04-15.21.39:563][893]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2023.05.04-15.21.39:683][893]LogD3D11RHI: Shutdown
+[2023.05.04-15.21.39:683][893]LogD3D11RHI: CleanupD3DDevice
+[2023.05.04-15.21.39:695][893]LogExit: Exiting.
+[2023.05.04-15.21.39:733][893]Log file closed, 05/04/23 16:21:39
